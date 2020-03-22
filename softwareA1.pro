@@ -1,15 +1,15 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2020-03-15T14:02:05
+# Project created by QtCreator 2020-03-22T14:26:22
 #
 #-------------------------------------------------
 
 QT       += core gui
-QT       +=network             //使用网络的应用
+QT       +=network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = QtUDP
+TARGET = softwareA1
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
